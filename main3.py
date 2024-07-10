@@ -240,7 +240,7 @@ async def hello(ctx):
         await ctx.send('Sorry, I can only respond in a specific channel.')
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run('MTI1NDAwODMxODkwNTY3OTk0NA.GrltcB.dlPiVlceCpXDe16Hcz6EDL6TBgvv7XPwyJEkaE')
+bot.run('MTI1NDAwODMxODkwNTY3OTk0NA.GJIb2V.OTuPkA0i-VT7MkAc1et1p4tMiS0UVG3yU2-5QM')
 
 
 
